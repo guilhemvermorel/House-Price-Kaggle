@@ -16,6 +16,7 @@ The dataset used consists of 1460 houses defined by characteristics, some of whi
 We have tried the following regressor techniques : SVR, Decision Tree Regressor, Ridge Regressor, Random Forest Regressor, Neural Network Regressor, Gradient Boostig, AdaBoost, XGBoost, Ensemble Regressor. 
 
 ## Results
+All results, and so Kaggle rankings, have been made on March 2022. 
 
 |Model | Training error (log MSE) | Kaggle score (log RMSE)  | Kaggle ranking |
 | ------------- |:-------------:| ------:| ----:|
