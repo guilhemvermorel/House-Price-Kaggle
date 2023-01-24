@@ -10,7 +10,7 @@ This project takes place with the objective of studying various regression techn
 `pytorch` - `1.13.1` 
 
 ## Dataset
-The dataset used consists of 1460 houses defined by characteristics, some of which are obviously correlated with its price, such as the number of rooms, and others which are not, such as the date of sale. It is available [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+The dataset used consists of 1460 houses defined by characteristics, some of which are obviously correlated with its price, such as the number of rooms, and others which are not, such as the date of sale. It is available [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 
 ## Models used
 We have tried the following regressor techniques : SVR, Decision Tree Regressor, Ridge Regressor, Random Forest Regressor, Neural Network Regressor, Gradient Boostig, AdaBoost, XGBoost, Ensemble Regressor. 
